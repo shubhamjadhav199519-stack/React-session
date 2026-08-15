@@ -14,4 +14,4 @@ async function loadUser(id) {
     console.log("done");
   }
 }
-loadUser(3);
+loadUser(2);
